@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Akash Deep Saingar 👋
 
-<!--
-**akashsaingar/akashsaingar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** based in Gurgaon, India 🇮🇳 with 3.5+ years of experience building scalable full-stack web applications using **Python**, **Django**, **FastAPI**, **ReactJS**, and **Docker**.
 
-Here are some ideas to get you started:
+### 👨‍💻 Tech Stack
+- **Languages:** Python, JavaScript (ES6+)
+- **Frameworks:** Django, FastAPI, React, Redux
+- **DevOps:** Docker, GitHub Actions, Nginx
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Others:** REST APIs, JWT, Microservices, CI/CD, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects
+Here are a few things I've built:
+
+- 🔐 [**Blog API**](https://github.com/yourusername/blog-api): A FastAPI-powered backend with JWT authentication. Clean, scalable, and production-ready.
+- 📦 [**Inventory Manager App**](https://github.com/yourusername/inventory-manager): A full-stack inventory tool using Django + React, with Dockerized deployment.
+- 📝 [**Portfolio Site**](https://github.com/yourusername/portfolio): This README is part of my GitHub profile! Check out my personal projects and contributions.
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 📫 Let's Connect!
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: akashsaingar387@gmail.com
+
+---
+
+*Currently open to remote or Gurgaon-based roles with a strong engineering culture.* 🚀
